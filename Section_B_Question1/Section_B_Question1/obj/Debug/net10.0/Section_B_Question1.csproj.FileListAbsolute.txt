@@ -1,0 +1,14 @@
+C:\Users\Themba\source\repos\Section_B_Question1\Section_B_Question1\bin\Debug\net10.0\Section_B_Question1.exe
+C:\Users\Themba\source\repos\Section_B_Question1\Section_B_Question1\bin\Debug\net10.0\Section_B_Question1.deps.json
+C:\Users\Themba\source\repos\Section_B_Question1\Section_B_Question1\bin\Debug\net10.0\Section_B_Question1.runtimeconfig.json
+C:\Users\Themba\source\repos\Section_B_Question1\Section_B_Question1\bin\Debug\net10.0\Section_B_Question1.dll
+C:\Users\Themba\source\repos\Section_B_Question1\Section_B_Question1\bin\Debug\net10.0\Section_B_Question1.pdb
+C:\Users\Themba\source\repos\Section_B_Question1\Section_B_Question1\obj\Debug\net10.0\Section_B_Question1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Themba\source\repos\Section_B_Question1\Section_B_Question1\obj\Debug\net10.0\Section_B_Question1.AssemblyInfoInputs.cache
+C:\Users\Themba\source\repos\Section_B_Question1\Section_B_Question1\obj\Debug\net10.0\Section_B_Question1.AssemblyInfo.cs
+C:\Users\Themba\source\repos\Section_B_Question1\Section_B_Question1\obj\Debug\net10.0\Section_B_Question1.csproj.CoreCompileInputs.cache
+C:\Users\Themba\source\repos\Section_B_Question1\Section_B_Question1\obj\Debug\net10.0\Section_B_Question1.dll
+C:\Users\Themba\source\repos\Section_B_Question1\Section_B_Question1\obj\Debug\net10.0\refint\Section_B_Question1.dll
+C:\Users\Themba\source\repos\Section_B_Question1\Section_B_Question1\obj\Debug\net10.0\Section_B_Question1.pdb
+C:\Users\Themba\source\repos\Section_B_Question1\Section_B_Question1\obj\Debug\net10.0\Section_B_Question1.genruntimeconfig.cache
+C:\Users\Themba\source\repos\Section_B_Question1\Section_B_Question1\obj\Debug\net10.0\ref\Section_B_Question1.dll
