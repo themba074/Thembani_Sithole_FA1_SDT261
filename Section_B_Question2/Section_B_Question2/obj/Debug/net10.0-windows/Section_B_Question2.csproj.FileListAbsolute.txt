@@ -1,0 +1,17 @@
+C:\Users\Themba\source\repos\Section_B_Question2\Section_B_Question2\bin\Debug\net10.0-windows\Section_B_Question2.exe
+C:\Users\Themba\source\repos\Section_B_Question2\Section_B_Question2\bin\Debug\net10.0-windows\Section_B_Question2.deps.json
+C:\Users\Themba\source\repos\Section_B_Question2\Section_B_Question2\bin\Debug\net10.0-windows\Section_B_Question2.runtimeconfig.json
+C:\Users\Themba\source\repos\Section_B_Question2\Section_B_Question2\bin\Debug\net10.0-windows\Section_B_Question2.dll
+C:\Users\Themba\source\repos\Section_B_Question2\Section_B_Question2\bin\Debug\net10.0-windows\Section_B_Question2.pdb
+C:\Users\Themba\source\repos\Section_B_Question2\Section_B_Question2\obj\Debug\net10.0-windows\Section_B_Question2.Form1.resources
+C:\Users\Themba\source\repos\Section_B_Question2\Section_B_Question2\obj\Debug\net10.0-windows\Section_B_Question2.csproj.GenerateResource.cache
+C:\Users\Themba\source\repos\Section_B_Question2\Section_B_Question2\obj\Debug\net10.0-windows\Section_B_Question2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Themba\source\repos\Section_B_Question2\Section_B_Question2\obj\Debug\net10.0-windows\Section_B_Question2.AssemblyInfoInputs.cache
+C:\Users\Themba\source\repos\Section_B_Question2\Section_B_Question2\obj\Debug\net10.0-windows\Section_B_Question2.AssemblyInfo.cs
+C:\Users\Themba\source\repos\Section_B_Question2\Section_B_Question2\obj\Debug\net10.0-windows\Section_B_Question2.csproj.CoreCompileInputs.cache
+C:\Users\Themba\source\repos\Section_B_Question2\Section_B_Question2\obj\Debug\net10.0-windows\Section_B_Question2.dll
+C:\Users\Themba\source\repos\Section_B_Question2\Section_B_Question2\obj\Debug\net10.0-windows\refint\Section_B_Question2.dll
+C:\Users\Themba\source\repos\Section_B_Question2\Section_B_Question2\obj\Debug\net10.0-windows\Section_B_Question2.pdb
+C:\Users\Themba\source\repos\Section_B_Question2\Section_B_Question2\obj\Debug\net10.0-windows\Section_B_Question2.genruntimeconfig.cache
+C:\Users\Themba\source\repos\Section_B_Question2\Section_B_Question2\obj\Debug\net10.0-windows\ref\Section_B_Question2.dll
+C:\Users\Themba\source\repos\Section_B_Question2\Section_B_Question2\obj\Debug\net10.0-windows\Section_B_Question2.Properties.Resources.resources
