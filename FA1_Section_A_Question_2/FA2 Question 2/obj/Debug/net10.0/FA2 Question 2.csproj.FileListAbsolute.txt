@@ -1,0 +1,14 @@
+C:\Users\Themba\source\repos\FA2 Question 2\FA2 Question 2\bin\Debug\net10.0\FA2 Question 2.exe
+C:\Users\Themba\source\repos\FA2 Question 2\FA2 Question 2\bin\Debug\net10.0\FA2 Question 2.deps.json
+C:\Users\Themba\source\repos\FA2 Question 2\FA2 Question 2\bin\Debug\net10.0\FA2 Question 2.runtimeconfig.json
+C:\Users\Themba\source\repos\FA2 Question 2\FA2 Question 2\bin\Debug\net10.0\FA2 Question 2.dll
+C:\Users\Themba\source\repos\FA2 Question 2\FA2 Question 2\bin\Debug\net10.0\FA2 Question 2.pdb
+C:\Users\Themba\source\repos\FA2 Question 2\FA2 Question 2\obj\Debug\net10.0\FA2 Question 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Themba\source\repos\FA2 Question 2\FA2 Question 2\obj\Debug\net10.0\FA2 Question 2.AssemblyInfoInputs.cache
+C:\Users\Themba\source\repos\FA2 Question 2\FA2 Question 2\obj\Debug\net10.0\FA2 Question 2.AssemblyInfo.cs
+C:\Users\Themba\source\repos\FA2 Question 2\FA2 Question 2\obj\Debug\net10.0\FA2 Question 2.csproj.CoreCompileInputs.cache
+C:\Users\Themba\source\repos\FA2 Question 2\FA2 Question 2\obj\Debug\net10.0\FA2 Question 2.dll
+C:\Users\Themba\source\repos\FA2 Question 2\FA2 Question 2\obj\Debug\net10.0\refint\FA2 Question 2.dll
+C:\Users\Themba\source\repos\FA2 Question 2\FA2 Question 2\obj\Debug\net10.0\FA2 Question 2.pdb
+C:\Users\Themba\source\repos\FA2 Question 2\FA2 Question 2\obj\Debug\net10.0\FA2 Question 2.genruntimeconfig.cache
+C:\Users\Themba\source\repos\FA2 Question 2\FA2 Question 2\obj\Debug\net10.0\ref\FA2 Question 2.dll

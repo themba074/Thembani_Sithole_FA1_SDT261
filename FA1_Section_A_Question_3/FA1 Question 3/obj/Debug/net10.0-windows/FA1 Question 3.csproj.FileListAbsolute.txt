@@ -1,0 +1,32 @@
+C:\Users\Themba\source\repos\FA1 Question 3\FA1 Question 3\obj\Debug\net10.0-windows\FA1_Question_3.Form1.resources
+C:\Users\Themba\source\repos\FA1 Question 3\FA1 Question 3\obj\Debug\net10.0-windows\FA1 Question 3.csproj.GenerateResource.cache
+C:\Users\Themba\source\repos\FA1 Question 3\FA1 Question 3\obj\Debug\net10.0-windows\FA1 Question 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Themba\source\repos\FA1 Question 3\FA1 Question 3\obj\Debug\net10.0-windows\FA1 Question 3.AssemblyInfoInputs.cache
+C:\Users\Themba\source\repos\FA1 Question 3\FA1 Question 3\obj\Debug\net10.0-windows\FA1 Question 3.AssemblyInfo.cs
+C:\Users\Themba\source\repos\FA1 Question 3\FA1 Question 3\obj\Debug\net10.0-windows\FA1 Question 3.csproj.CoreCompileInputs.cache
+C:\Users\Themba\source\repos\FA1 Question 3\FA1 Question 3\bin\Debug\net10.0-windows\FA1 Question 3.exe
+C:\Users\Themba\source\repos\FA1 Question 3\FA1 Question 3\bin\Debug\net10.0-windows\FA1 Question 3.deps.json
+C:\Users\Themba\source\repos\FA1 Question 3\FA1 Question 3\bin\Debug\net10.0-windows\FA1 Question 3.runtimeconfig.json
+C:\Users\Themba\source\repos\FA1 Question 3\FA1 Question 3\bin\Debug\net10.0-windows\FA1 Question 3.dll
+C:\Users\Themba\source\repos\FA1 Question 3\FA1 Question 3\bin\Debug\net10.0-windows\FA1 Question 3.pdb
+C:\Users\Themba\source\repos\FA1 Question 3\FA1 Question 3\obj\Debug\net10.0-windows\FA1 Question 3.dll
+C:\Users\Themba\source\repos\FA1 Question 3\FA1 Question 3\obj\Debug\net10.0-windows\refint\FA1 Question 3.dll
+C:\Users\Themba\source\repos\FA1 Question 3\FA1 Question 3\obj\Debug\net10.0-windows\FA1 Question 3.pdb
+C:\Users\Themba\source\repos\FA1 Question 3\FA1 Question 3\obj\Debug\net10.0-windows\FA1 Question 3.genruntimeconfig.cache
+C:\Users\Themba\source\repos\FA1 Question 3\FA1 Question 3\obj\Debug\net10.0-windows\ref\FA1 Question 3.dll
+C:\Users\Themba\source\repos\FA1_Section_A_Question_3\FA1 Question 3\bin\Debug\net10.0-windows\FA1 Question 3.exe
+C:\Users\Themba\source\repos\FA1_Section_A_Question_3\FA1 Question 3\bin\Debug\net10.0-windows\FA1 Question 3.deps.json
+C:\Users\Themba\source\repos\FA1_Section_A_Question_3\FA1 Question 3\bin\Debug\net10.0-windows\FA1 Question 3.runtimeconfig.json
+C:\Users\Themba\source\repos\FA1_Section_A_Question_3\FA1 Question 3\bin\Debug\net10.0-windows\FA1 Question 3.dll
+C:\Users\Themba\source\repos\FA1_Section_A_Question_3\FA1 Question 3\bin\Debug\net10.0-windows\FA1 Question 3.pdb
+C:\Users\Themba\source\repos\FA1_Section_A_Question_3\FA1 Question 3\obj\Debug\net10.0-windows\FA1_Question_3.Form1.resources
+C:\Users\Themba\source\repos\FA1_Section_A_Question_3\FA1 Question 3\obj\Debug\net10.0-windows\FA1 Question 3.csproj.GenerateResource.cache
+C:\Users\Themba\source\repos\FA1_Section_A_Question_3\FA1 Question 3\obj\Debug\net10.0-windows\FA1 Question 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Themba\source\repos\FA1_Section_A_Question_3\FA1 Question 3\obj\Debug\net10.0-windows\FA1 Question 3.AssemblyInfoInputs.cache
+C:\Users\Themba\source\repos\FA1_Section_A_Question_3\FA1 Question 3\obj\Debug\net10.0-windows\FA1 Question 3.AssemblyInfo.cs
+C:\Users\Themba\source\repos\FA1_Section_A_Question_3\FA1 Question 3\obj\Debug\net10.0-windows\FA1 Question 3.csproj.CoreCompileInputs.cache
+C:\Users\Themba\source\repos\FA1_Section_A_Question_3\FA1 Question 3\obj\Debug\net10.0-windows\FA1 Question 3.dll
+C:\Users\Themba\source\repos\FA1_Section_A_Question_3\FA1 Question 3\obj\Debug\net10.0-windows\refint\FA1 Question 3.dll
+C:\Users\Themba\source\repos\FA1_Section_A_Question_3\FA1 Question 3\obj\Debug\net10.0-windows\FA1 Question 3.pdb
+C:\Users\Themba\source\repos\FA1_Section_A_Question_3\FA1 Question 3\obj\Debug\net10.0-windows\FA1 Question 3.genruntimeconfig.cache
+C:\Users\Themba\source\repos\FA1_Section_A_Question_3\FA1 Question 3\obj\Debug\net10.0-windows\ref\FA1 Question 3.dll
