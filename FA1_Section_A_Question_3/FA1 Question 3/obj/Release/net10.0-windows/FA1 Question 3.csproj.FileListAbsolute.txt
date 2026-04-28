@@ -1,0 +1,6 @@
+C:\Users\Themba\source\repos\FA1 Question 3\FA1 Question 3\obj\Release\net10.0-windows\FA1_Question_3.Form1.resources
+C:\Users\Themba\source\repos\FA1 Question 3\FA1 Question 3\obj\Release\net10.0-windows\FA1 Question 3.csproj.GenerateResource.cache
+C:\Users\Themba\source\repos\FA1 Question 3\FA1 Question 3\obj\Release\net10.0-windows\FA1 Question 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Themba\source\repos\FA1 Question 3\FA1 Question 3\obj\Release\net10.0-windows\FA1 Question 3.AssemblyInfoInputs.cache
+C:\Users\Themba\source\repos\FA1 Question 3\FA1 Question 3\obj\Release\net10.0-windows\FA1 Question 3.AssemblyInfo.cs
+C:\Users\Themba\source\repos\FA1 Question 3\FA1 Question 3\obj\Release\net10.0-windows\FA1 Question 3.csproj.CoreCompileInputs.cache
